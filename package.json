@@ -1,0 +1,7 @@
+{
+    "name": "nw-api-rs-crash",
+    "main": "index.html",
+    "dependencies": {
+        "steamworks.js": "^0.2.0"
+    }
+}
